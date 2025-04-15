@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @Indirajeet2004
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi there, I'm M. Jeyakumar
 
-<!---
-Indirajeet2004/Indirajeet2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 AI Student | 💻 Developer | 🚀 Tech Enthusiast  
+Passionate about solving real-world problems using technology.  
+Exploring AI, Machine Learning, Deep Learning, and Full Stack Development.
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Programming Languages:** Python, Java, C  
+**Web Development:** HTML, CSS, JavaScript, Flask  
+**Database Management:** SQL, MySQL  
+**Tools & Platforms:** GitHub, VS Code, Google Colab, Replit  
+**Other Skills:** OOPs, DSA, Git, Bash  
+**ML & DL Frameworks:** TensorFlow, scikit-learn, OpenCV  
+
+---
+
+## 📘 Academic Projects
+
+### [Dr.Crop - Plant Disease Detection App](https://github.com/yourusername/project-link)
+- Mobile app to detect plant diseases using CNN-based AI
+- Supports multilingual functionality and image input
+
+### [CrimeSpot - Crime Analysis & Prediction System](https://github.com/yourusername/project-link)
+- Crime data analysis using machine learning and data visualization
+
+---
+
+## 🔗 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourhandle)
+- [Instagram](https://instagram.com/yourhandle)
