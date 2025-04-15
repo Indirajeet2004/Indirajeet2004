@@ -1,34 +1,35 @@
-# 👋 Hi there, I'm M. Jeyakumar
+👋 Hi there, I'm Indirajeet Narayan B
+🎓 AI Student | 💻 Developer | 🚀 Tech Explorer
+Driven by curiosity and a love for solving real-world challenges using tech.
+Currently diving deep into AI, Computer Vision, Web Development, and beyond.
 
-🎓 AI Student | 💻 Developer | 🚀 Tech Enthusiast  
-Passionate about solving real-world problems using technology.  
-Exploring AI, Machine Learning, Deep Learning, and Full Stack Development.
+🛠️ Skills & Technologies
+Programming Languages: Python, Java, C
+Web Development: HTML, CSS, JavaScript, Flask
+Database Management: SQL, MySQL
+Tools & Platforms: GitHub, VS Code, Google Colab, Replit
+Other Skills: OOPs, DSA, Git, Bash
+ML & CV Frameworks: TensorFlow, OpenCV, scikit-learn, MediaPipe
 
----
+📘 Academic Projects
+Gesture Control with OpenCV & Python
+Control system volume and brightness with hand gestures
 
-## 🛠️ Skills & Technologies
+Uses OpenCV, MediaPipe, Pycaw, and screen_brightness_control
 
-**Programming Languages:** Python, Java, C  
-**Web Development:** HTML, CSS, JavaScript, Flask  
-**Database Management:** SQL, MySQL  
-**Tools & Platforms:** GitHub, VS Code, Google Colab, Replit  
-**Other Skills:** OOPs, DSA, Git, Bash  
-**ML & DL Frameworks:** TensorFlow, scikit-learn, OpenCV  
+Flash Card Quiz App
+An interactive quiz app to test knowledge with flash cards
 
----
+Built using Python and Tkinter for an engaging experience
 
-## 📘 Academic Projects
+Space-Themed Weather Application
+A visually dynamic weather app with twinkling stars, aurora, planets, and 3D cards
 
-### [Dr.Crop - Plant Disease Detection App](https://github.com/yourusername/project-link)
-- Mobile app to detect plant diseases using CNN-based AI
-- Supports multilingual functionality and image input
+Built using HTML, CSS, JavaScript, OpenWeather API, and Wikipedia API
 
-### [CrimeSpot - Crime Analysis & Prediction System](https://github.com/yourusername/project-link)
-- Crime data analysis using machine learning and data visualization
+🔗 Connect with me
+LinkedIn
 
----
+Twitter
 
-## 🔗 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Instagram](https://instagram.com/yourhandle)
+Instagram
